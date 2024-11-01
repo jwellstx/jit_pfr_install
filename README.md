@@ -1,6 +1,6 @@
 # jit_pfr_install
 Includes install bash file for setting up Just-In Traps environment.
-<br/>
+<br/><br/>
 Usage: ./install.sh --user USERNAME --token TOKEN --repo REPO [--dest-dir DIR] [--branch BRANCH]<br/>
 &emsp;--user       GitHub username<br/>
 &emsp;--token      GitHub personal access token<br/>
